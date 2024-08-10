@@ -909,7 +909,7 @@ button,
 
 #header {
   max-width: max(800px, 80vw);
-  border:1px solid #EEE; 
+  border:2px solid #EEE; 
   background:rgba(0,0,0,0.7);
   padding: 20px;
 }
